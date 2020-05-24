@@ -1,6 +1,6 @@
 # KyleJeong.github.io
 
-# Hangul 
+# Hangul, Hanja
 ~~~ python
     non_hanja = re.compile(r'[^\u2E80-\u2EFF\u3400-\u4DBF\u4E00-\u9FBF\uF900-\uFAFF\u20000-\u2A6DF\u2F800-\u2FA1F]+')
 
